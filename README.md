@@ -5,7 +5,7 @@ Linux version (tested on Ubuntu)
 ## Installation
 
 ```sh
-$ git clone https://github.com/mnegura/fdf.git
+$ git clone https://github.com/mnegura/fractol.git
 $ cd fractol
 $ make
 $ ./fractol [fractol_name]
